@@ -1,5 +1,9 @@
 # News Image — 24 November 2026
 
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Daniikhwan/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Daniikhwan/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 [![make.fun](https://img.shields.io/badge/make.fun-bounty-7C3AED)](https://make.fun/c/news-image-20261124)
 [![Python](https://img.shields.io/badge/python-3.13-blue)](https://www.python.org)
 [![stdlib only](https://img.shields.io/badge/deps-stdlib_only-green)](https://make.fun/c/news-image-20261124)
